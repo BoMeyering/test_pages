@@ -31,3 +31,10 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Main Color Pallete
+000000
+14213d
+fca311
+e5e5e5
+ffffff		
